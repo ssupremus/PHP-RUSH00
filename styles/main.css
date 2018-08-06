@@ -1,0 +1,112 @@
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.header-login-bar {
+	margin-top: 1%;
+	z-index: 2;
+	width: 100%;
+	height: 3vw;
+	background-color: white;
+	text-align: right;
+}
+
+.header-login-info {
+	vertical-align: middle;
+}
+
+.header-login-value {
+	vertical-align: middle;
+	margin-left: 0.2%;
+	color: #ec9007;
+	font-weight: bold;
+}
+
+.header-login-value > a {
+    text-decoration: none;
+    color: orange;
+}
+
+.header-btn {
+	vertical-align: middle;
+	cursor: pointer;
+	margin-left: 1%;
+}
+.header-btn:hover {
+	border: 1px solid black;
+}
+
+.basket-btn {
+	margin-left: 1%;
+	margin-right: 2%;
+	border-style: none;
+	background-color: none;
+	vertical-align: middle;
+}
+
+.basket-btn:hover {
+	cursor: pointer;
+	border: 1px solid black;
+}
+
+.basket-img {
+	top: 2vw;
+	width: 2vw;
+	font-size: 1vw;
+}
+.pre-navigation-img {
+	width: 100%;
+    height: 35vw;
+}
+.navigation-menu {
+	width: 100%;
+    height: 5vw;
+    margin-top: 1vw;
+    text-align: center;
+}
+
+.navigation-menu > a {
+	text-decoration: none;
+	font-size: 3vw;
+	color: #126e9a;
+}
+.afterline-navigation-menu {
+	height: 1vw;
+	background-color: black;
+}
+.menu-item {
+	padding: 2vw;
+}
+.menu-item:hover {
+    background-color: #126e9a;
+    color: white;
+}
+.footer {
+	color: orange;
+	vertical-align: middle;
+	text-align: center;
+	margin-top: 3vw;
+	width: 100%;
+	height: 5vw;
+}
+.footer > span > a {
+	font-size: 2vw;
+	text-decoration: none;
+	color: blue;
+}
+.footer > span > a:hover {
+	font-size: 2vw;
+	text-decoration: none;
+	color: lightblue;
+}
+.footer > .made-by {
+	font-weight: bold;
+	font-size: 2vw;
+}
+.gh {
+	width: 1.3vw;
+}

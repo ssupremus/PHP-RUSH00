@@ -1,0 +1,47 @@
+.basket-block {
+	width: 100%;
+}
+.basket-row-title {
+	width: 100%;
+	text-align: center;
+	margin: 2vw;
+	margin-top: 5%;
+}
+table {
+	margin-left: 30%;
+	margin-top: 5%;
+}
+.total-price {
+	color: green;
+	font-weight: bold;
+	font-size: 1.5vw;
+}
+.buy-something {
+	text-align: center;
+	margin-top: 10%;
+}
+.back-to-main {
+	color: green;
+}
+.sign-in-for-validate {
+	font-weight: bold;
+	color: #bf6464;
+}
+.validate-block {
+	margin-top: 3%;
+	width: 100%;
+	text-align: center;
+}
+.validate-button {
+    width: 11vw;
+    font-size: 1.2vw;
+    padding: 0.5%;
+    background-color: #4da050;
+    color: white;
+}
+.validate-button:hover {
+	cursor: pointer;
+}
+.bascet-button:hover {
+	cursor: pointer;
+}
